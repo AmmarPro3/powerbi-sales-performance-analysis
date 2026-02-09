@@ -23,8 +23,29 @@ February sales decline was driven mainly by fewer transactions (demand drop), wh
 - Tooltip – Root Cause (Table)
 
 ## Screenshots
-Add images under `/screenshots` and reference them here.
+
+### 1) Overview (KPIs + Q1 trend)
+![Overview](screenshots/overview.png)
+
+### 2) Data model (Star schema)
+![Data model](screenshots/data-model.png)
+
+### 3) Product Line Drivers (Feb vs Jan)
+![Product line drivers](screenshots/Product%20Line%20Drivers%20%E2%80%94%20February%20MoM%20Drop%20(Feb%20vs%20Jan).png)
+
+### 4) Root Cause (Overall worst context)
+![Root cause overall](screenshots/root-cause-overall.png)
+
+### 5) Root Cause (Selected cell + drill table)
+![Root cause selected cell](screenshots/root-cause-selected-cell.png)
+
+### 6) Tooltip – Root Cause (Matrix)
+![Tooltip matrix](screenshots/tooltip-matrix.png)
+
+### 7) Tooltip – Root Cause (Table)
+![Tooltip table](screenshots/tooltip-table.png)
 
 ## Files
 - `pbix/Sales Analysis.pbix`
-- `data/SuperMarket Analysis.xlsx`
+- `data/SuperMarket Analysis.csv`
+- `screenshots/` (project images)
